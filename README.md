@@ -10,10 +10,10 @@ At my core, I’m a **problem solver**.
 I use software not only to build projects, but also to improve productivity, automate workflows, and make systems smarter and more efficient.
 
 🪐 **What I’m Exploring**  
-- 🤖 **Data Science & Machine Learning** — building, training, and evaluating models  
-- 🧠 **AI-driven systems** — focusing on real use cases rather than purely theoretical work  
-- ⚙️ **DevOps & Cloud** — learning how projects survive beyond development and reach production  
-- 🔐 **Network Security** — understanding the reliability and safety of intelligent systems
+- 🤖 **Data Science & Machine Learning** - building, training, and evaluating models  
+- 🧠 **AI-driven systems** - focusing on real use cases rather than purely theoretical work  
+- ⚙️ **DevOps & Cloud** - learning how projects survive beyond development and reach production  
+- 🔐 **Network Security** - understanding the reliability and safety of intelligent systems
 
 🌠 I’m especially interested in how ideas move from **experimentation to deployment**.  
 That’s why I study containerization, cloud platforms, and DevOps practices - because even the best model needs a stable orbit to operate in.
