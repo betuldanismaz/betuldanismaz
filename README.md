@@ -4,8 +4,7 @@
 I’m currently navigating my journey through the **data universe**, exploring how machine learning, software engineering, and intelligent systems can be used to solve **real-world problems**.
 
 🛰️ **My Mission**  
-I work on **machine learning models** and data-driven systems with a clear goal:  
-to turn raw data into meaningful insights and practical solutions.  
+I work on **machine learning models** and data-driven systems with a clear goal: to turn raw data into meaningful insights and practical solutions.  
 At my core, I’m a **problem solver**.  
 I use software not only to build projects, but also to improve productivity, automate workflows, and make systems smarter and more efficient.
 
