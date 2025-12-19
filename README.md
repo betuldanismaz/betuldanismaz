@@ -18,11 +18,11 @@ I use software not only to build projects, but also to improve productivity, aut
 That’s why I study containerization, cloud platforms, and DevOps practices - because even the best model needs a stable orbit to operate in.
 
 🛰️ **My Tech Stack**  
-- 🧬 **Programming Languages**: Python, SQL, C, C++, Java, JavaScript, 
-- 🧠 **ML & AI**: TensorFlow, PyTorch, Keras, NumPy, pandas, Matplotlib, Scikit-learn, OpenCV, YOLO  
-- 🗄️ **Database & Backend**: PostgreSQL, MongoDB, Node.js, Express.js  
-- ☁️ **Cloud & DevOps**: Docker, Kubernetes, Apache Airflow, AWS, Huawei Cloud  
-- 🛠️ **Tools**: Git, Linux, VS Code, IntelliJ  
+- **Programming Languages**: Python, SQL, C, C++, Java, JavaScript, 
+- **ML & AI**: TensorFlow, PyTorch, Keras, NumPy, pandas, Matplotlib, Scikit-learn, OpenCV, YOLO  
+- **Database & Backend**: PostgreSQL, MongoDB, Node.js, Express.js  
+- **Cloud & DevOps**: Docker, Kubernetes, Apache Airflow, AWS, Huawei Cloud  
+- **Tools**: Git, Linux, VS Code, IntelliJ  
 
 🚀 **Current Trajectory**  
 Continuously learning, experimenting, and refining my skills to become a well-rounded engineer who can design, build, and deploy end-to-end AI solutions.
