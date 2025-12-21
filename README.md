@@ -22,7 +22,19 @@ That’s why I study containerization, cloud platforms, and DevOps practices - b
 - **ML & AI**: TensorFlow, PyTorch, Keras, NumPy, pandas, Matplotlib, Scikit-learn, OpenCV, YOLO  
 - **Database & Backend**: PostgreSQL, MongoDB, Node.js, Express.js  
 - **Cloud & DevOps**: Docker, Kubernetes, Apache Airflow, AWS, Huawei Cloud  
-- **Tools**: Git, Linux, VS Code, IntelliJ  
+- **Tools**: Git, Linux, VS Code, IntelliJ
+
+## 📈 Mission Control
+
+![Beth's GitHub Stats](https://github-readme-stats.vercel.app/api?username=betuldanismaz&show_icons=true&hide_title=true&include_all_commits=true&count_private=true)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=betuldanismaz&layout=compact)
+
+![GitHub Streak](https://streak-stats.demolab.com?user=betuldanismaz)
+
+![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=betuldanismaz)
+
+
 
 🚀 **Current Trajectory**  
 Continuously learning, experimenting, and refining my skills to become a well-rounded engineer who can design, build, and deploy end-to-end AI solutions.
