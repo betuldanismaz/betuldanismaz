@@ -32,7 +32,6 @@ That’s why I study containerization, cloud platforms, and DevOps practices - b
 
 ![GitHub Streak](https://streak-stats.demolab.com?user=betuldanismaz)
 
-![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=betuldanismaz)
 
 
 
