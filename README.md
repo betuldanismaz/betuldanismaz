@@ -30,9 +30,6 @@ That’s why I study containerization, cloud platforms, and DevOps practices - b
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=betuldanismaz&layout=compact)
 
-![GitHub Streak](https://streak-stats.demolab.com?user=betuldanismaz)
-
-
 
 
 🚀 **Current Trajectory**  
