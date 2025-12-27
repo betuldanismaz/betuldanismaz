@@ -1,5 +1,5 @@
 🌌 Hello there, I’m Beth 👋  
-🧑‍🚀 Aspiring Data Scientist | 4th-Year Computer Engineering Student  
+🧑‍🚀 Data Scientist | 4th-Year Computer Engineering Student  
 
 I’m currently navigating my journey through the **data universe**, exploring how machine learning, software engineering, and intelligent systems can be used to solve **real-world problems**.
 
