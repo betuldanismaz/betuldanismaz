@@ -25,7 +25,9 @@ That’s why I study containerization, cloud platforms, and DevOps practices - b
 - **Tools**: Git, Linux, VS Code, IntelliJ
 
 ## 📈 Mission Control
+
 ![Beth's GitHub Stats](https://github-readme-stats.vercel.app/api?username=betuldanismaz&show_icons=true&hide_title=true&include_all_commits=true&count_private=true)
+
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=betuldanismaz&layout=compact)
 
 
