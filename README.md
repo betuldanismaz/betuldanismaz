@@ -26,11 +26,11 @@ That’s why I study containerization, cloud platforms, and DevOps practices - b
 
 ## 📈 Mission Control
 
-![Beth's GitHub Stats](https://github-readme-stats.vercel.app/api?username=betuldanismaz&show_icons=true&hide_title=true&include_all_commits=true&count_private=true&cache_seconds=1800)
+![Beth's GitHub Stats](https://github-readme-stats-sigma-five.vercel.app/api?username=betuldanismazk&show_icons=true&theme=radical)
+                 
 
 
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=betuldanismaz&layout=compact)
+![Top Languages](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=betuldanismaz&layout=compact&theme=radical)
 
 
 
