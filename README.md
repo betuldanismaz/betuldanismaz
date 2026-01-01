@@ -14,8 +14,6 @@ I use software not only to build projects, but also to improve productivity, aut
 - ⚙️ **DevOps & Cloud** - learning how projects survive beyond development and reach production  
 - 🔐 **Network Security** - understanding the reliability and safety of intelligent systems
 
-🌠 I’m especially interested in how ideas move from **experimentation to deployment**.  
-That’s why I study containerization, cloud platforms, and DevOps practices - because even the best model needs a stable orbit to operate in.
 
 🛰️ **My Tech Stack**  
 - **Programming Languages**: Python, SQL, C, C++, Java, JavaScript, 
