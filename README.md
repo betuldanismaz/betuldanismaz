@@ -20,7 +20,7 @@ I use software not only to build projects, but also to improve productivity, aut
 - **ML & AI**: TensorFlow, PyTorch, Keras, NumPy, pandas, Matplotlib, Scikit-learn, OpenCV, YOLO  
 - **Database & Backend**: PostgreSQL, MongoDB, Node.js, Express.js  
 - **Cloud & DevOps**: Docker, Kubernetes, Apache Airflow, AWS, Huawei Cloud  
-- **Tools**: Git, Linux, VS Code, IntelliJ
+- **Tools**: Git, Linux
 
 ## 📈 Mission Control
 
