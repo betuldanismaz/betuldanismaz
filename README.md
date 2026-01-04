@@ -31,8 +31,7 @@ I use software not only to build projects, but also to improve productivity, aut
 ![Top Languages](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=betuldanismaz&layout=compact&theme=radical)
 
 
-![GitHub Streak](https://github-readme-streak-stats-sigma-five.vercel.app/?user=betuldanismaz&theme=radical&hide_border=true)
-
+![GitHub Streak](https://github-readme-streak-stats-sigma-five.vercel.app/?user=betuldanismaz&hide_total_contributions=true&theme=radical&hide_border=true)
 
 
 
