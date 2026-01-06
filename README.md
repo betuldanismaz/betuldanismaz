@@ -1,7 +1,7 @@
 🌌 Hello there, I’m Beth 👋  
 🧑‍🚀 Data Scientist | 4th-Year Computer Engineering Student  
 
-I’m currently navigating my journey through the **data universe**, exploring how machine learning, software engineering, and intelligent systems can be used to solve **real-world problems**.
+I’m currently navigating my journey through **data science**, exploring how machine learning, software engineering, and intelligent systems can be used to solve **real-world problems**.
 
 🛰️ **My Mission**  
 I work on **machine learning models** and data-driven systems with a clear goal: to turn raw data into meaningful insights and practical solutions.  
@@ -16,7 +16,7 @@ I use software not only to build projects, but also to improve productivity, aut
 
 
 🛰️ **My Tech Stack**  
-- **Programming Languages**: Python, SQL, C, C++, Java, JavaScript, Fortran
+- **Programming Languages**: Python, SQL, C, C++, JavaScript, Java, , Fortran
 - **ML & AI**: TensorFlow, PyTorch, Keras, NumPy, pandas, Matplotlib, Scikit-learn, OpenCV, YOLO  
 - **Database & Backend**: PostgreSQL, MongoDB, Node.js, Express.js  
 - **Cloud & DevOps**: Docker, Kubernetes, Apache Airflow, AWS, Huawei Cloud  
@@ -35,8 +35,6 @@ I use software not only to build projects, but also to improve productivity, aut
 
 
 
-🚀 **Current Trajectory**  
-Continuously learning, experimenting, and refining my skills to become a well-rounded engineer who can design, build, and deploy end-to-end AI solutions.
 
 ✨ *Still exploring. Still learning. Still improving - one iteration at a time.*
 
