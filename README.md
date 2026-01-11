@@ -16,7 +16,7 @@ I use software not only to build projects, but also to improve productivity, aut
 
 
 🛰️ **My Tech Stack**  
-- **Programming Languages**: Python, SQL, C, C++, JavaScript, Java, , Fortran
+- **Programming Languages**: Python, SQL, JavaScript, Java, C, C++
 - **ML & AI**: TensorFlow, PyTorch, Keras, NumPy, pandas, Matplotlib, Scikit-learn, OpenCV, YOLO  
 - **Database & Backend**: PostgreSQL, MongoDB, Node.js, Express.js  
 - **Cloud & DevOps**: Docker, Kubernetes, Apache Airflow, AWS, Huawei Cloud  
