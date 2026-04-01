@@ -67,23 +67,13 @@ My main interest is where **machine learning**, **software engineering**, and **
 
 ---
 
-## 📊 GitHub Analytics
-
-<div align="center">
-
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=betuldanismaz&show_icons=true&theme=radical&hide_border=true&rank_icon=github" />
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=betuldanismaz&layout=compact&theme=radical&hide_border=true" />
-
-</div>
+## 📊 GitHub Activity
 
 <div align="center">
 
 <img src="https://streak-stats.demolab.com?user=betuldanismaz&theme=radical&hide_border=true" />
 
 </div>
-
----
-
 
 
 
