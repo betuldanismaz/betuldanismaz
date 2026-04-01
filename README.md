@@ -22,14 +22,50 @@
 
 ## 🚀 About Me
 
-I am Betul, a **4th-year Computer Engineering student** focused on **data science, machine learning, and intelligent systems**.
+I am Betul, a **4th-year Computer Engineering student** focused on **data science and machine learning**.
 
 I like building systems that do more than just run models - systems that can **solve real problems**, **automate workflows**, and **move toward production-ready impact**.
 
-My main interest is where **machine learning**, **software engineering**, and **system design** intersect.
 
 ---
+## 🧩 Selected Work
 
+
+### 🛡️ Real-Time Network Intrusion Detection System  
+**Python • Kafka • Docker • XGBoost • TensorFlow**
+
+> Production-grade real-time intrusion detection pipeline
+
+- Processed **2.8M+ network flows** on a Kafka streaming architecture  
+- Achieved **98.88% accuracy (0.999 ROC-AUC)** across 5 ML/DL models  
+- Engineered ultra-low latency inference (**0.008 ms**) with **126K+ predictions/sec**  
+- Integrated **SHAP explainability** and automated threat mitigation  
+- 📄 *Paper submitted to IEEE SIU 2026*
+
+
+### 🦷 AI-Powered Oral Pathology Platform  
+**React • Next.js • FastAPI • PostgreSQL • MedGemma**
+
+> Intelligent clinical learning system with adaptive AI feedback
+
+- Built a **full-stack AI platform** for medical training and diagnostics  
+- Developed **adaptive learning engine (IRT + ML models)**  
+- Designed **200+ multimodal patient cases** (images + clinical data)  
+- Integrated medical LLM with rule-based validation for reliability  
+
+
+### 📊 Business Analytics Dashboard  
+**React • Node.js • Express • MongoDB**
+
+> Scalable analytics system for real-time business insights
+
+- Developed a **MERN-based analytics platform**  
+- Designed optimized **MongoDB aggregation pipelines**  
+- Enabled **real-time filtering, sorting, and exploration**  
+- Implemented **Redux Toolkit & RTK Query** for efficient state management  
+
+
+---
 
 ## 🛠️ Tech Stack
 
