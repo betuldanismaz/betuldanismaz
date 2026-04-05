@@ -106,8 +106,10 @@ I like building systems that do more than just run models - systems that can **s
 
 <div align="center">
 
-<img height="170" src="https://streak-stats.demolab.com?user=betuldanismaz&theme=radical&hide_border=true" />
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=betuldanismaz&layout=compact&theme=radical&hide_border=true" />
+<img src="https://streak-stats.demolab.com?user=betuldanismaz&theme=radical&hide_border=true" />
+<br/>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=betuldanismaz&theme=radical" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=betuldanismaz&theme=radical" />
 
 </div>
 
