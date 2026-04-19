@@ -49,7 +49,7 @@ I like building systems that do more than just run models - systems that can **s
 > Intelligent clinical learning system with adaptive AI feedback
 
 - Built a **full-stack AI platform** for medical training and diagnostics  
-- Developed **adaptive learning engine (IRT + ML models)**  
+- Developed **adaptive learning engine (IRT)**  
 - Designed **200+ multimodal patient cases** (images + clinical data)  
 - Integrated medical LLM with rule-based validation for reliability  
 
@@ -60,9 +60,7 @@ I like building systems that do more than just run models - systems that can **s
 > Scalable analytics system for real-time business insights
 
 - Developed a **MERN-based analytics platform**  
-- Designed optimized **MongoDB aggregation pipelines**  
-- Enabled **real-time filtering, sorting, and exploration**  
-- Implemented **Redux Toolkit & RTK Query** for efficient state management  
+
 
 
 ---
