@@ -8,7 +8,7 @@
 
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=8A2BE2&center=true&vCenter=true&width=700&lines=Turning+data+into+intelligent+systems;Building+practical+machine+learning+solutions;Exploring+AI%2C+Cloud%2C+Security+and+Production+systems" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=8A2BE2&center=true&vCenter=true&width=700&lines=Turning+data+into+intelligent+systems;Building+practical+machine+learning+solutions;Exploring+AI%2C+Cloud+and+Production+systems" alt="Typing SVG" />
 
 <br/>
 
