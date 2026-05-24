@@ -40,7 +40,7 @@ I like building systems that do more than just run models - systems that can **s
 - Achieved **98.88% accuracy (0.999 ROC-AUC)** across 5 ML/DL models  
 - Engineered ultra-low latency inference (**0.008 ms**) with **126K+ predictions/sec**  
 - Integrated **SHAP explainability** and automated threat mitigation  
-- 📄 *Paper submitted to IEEE SIU 2026*
+- 📄 *Paper accepted to IEEE SIU 2026*
 
 
 ### 🦷 AI-Powered Oral Pathology Platform  
