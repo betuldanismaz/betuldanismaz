@@ -43,7 +43,7 @@ I like building systems that do more than just run models - systems that can **s
 - 📄 *Paper accepted to IEEE SIU 2026*
 
 
-### 🦷 AI-Powered Oral Pathology Platform  
+### 🦷 Oral Pathology Assessment Platform  
 **React • Next.js • FastAPI • PostgreSQL • MedGemma**
 
 > Intelligent clinical learning system with adaptive AI feedback
@@ -51,8 +51,22 @@ I like building systems that do more than just run models - systems that can **s
 - Built a **full-stack AI platform** for medical training and diagnostics  
 - Developed **adaptive learning engine (IRT)**  
 - Designed **200+ multimodal patient cases** (images + clinical data)  
-- Integrated medical LLM with rule-based validation for reliability  
+- Integrated medical LLM with rule-based validation for reliability
 
+  
+### 🌍 GeoSafe : Disaster Safety & Geospatial Logistics Platform
+  **Python • FastAPI • PostgreSQL • PostGIS • React • Docker**
+
+  > Geospatial information system for real-time disaster response and supply chain management
+
+  - Modeled **Point & Polygon geometries** (WGS84/SRID 4326) in PostGIS for warehouse locations and
+  evacuation zone boundaries
+  - Built **spatial query pipelines** (`ST_DistanceSphere`, `ST_AsGeoJSON`) with GIST indexing for
+  nearest-warehouse routing
+  - Designed a **normalized supply chain schema** (3NF) tracking inventory movements across logistics
+  depots with full audit logging
+  - Delivered **GeoJSON API** via async FastAPI + GeoAlchemy2, visualized on an interactive Leaflet.js map
+  dashboard
 
 ### 📊 Business Analytics Dashboard  
 **React • Node.js • Express • MongoDB**
