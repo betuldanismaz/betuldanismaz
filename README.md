@@ -54,6 +54,7 @@ I build ML systems that go beyond notebooks — **real-time intrusion detection 
 - Developed **adaptive learning engine (IRT)** that adjusts question difficulty per student  
 - Designed **200+ multimodal patient cases** (images + clinical data)  
 - Integrated medical LLM with rule-based validation for diagnostic reliability
+- Awarded the TÜBİTAK 2209-A Research Grant for the project’s development and clinical AI research contributions
 
 [![Repo](https://img.shields.io/badge/GitHub-DisHekimligiAI-181717?style=flat-square&logo=github)](https://github.com/betuldanismaz/DisHekimligiAI)
 
