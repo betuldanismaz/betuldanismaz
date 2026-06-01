@@ -22,9 +22,25 @@
 
 ## 🚀 About Me
 
-I build ML systems that go beyond notebooks — **real-time intrusion detection on Kafka pipelines**, **medical AI platforms with adaptive learning**, and **geospatial disaster response tools**.
+I’m a 4th-year Computer Engineering student focused on building **production-grade ML systems**, **real-time AI infrastructure**, and **applied multimodal intelligence platforms**.
 
-4th-year Computer Engineering student with a **paper accepted at IEEE SIU 2026**, hands-on experience shipping **end-to-end ML/DL pipelines** (data → model → deployment), and a focus on turning research into production-ready impact.
+My work spans:
+
+- real-time intrusion detection on Kafka streaming pipelines  
+- adaptive medical AI systems powered by LLMs  
+- geospatial disaster-response platforms  
+- end-to-end ML pipelines from data engineering to deployment  
+
+I have an accepted research paper at **IEEE SIU 2026** and received the **TÜBİTAK 2209-A Research Grant** for developing an AI-assisted oral pathology assessment platform integrating multimodal clinical reasoning and adaptive learning.
+
+### 🔬 Areas of Interest
+
+- ML Systems Engineering  
+- MLOps & Scalable Inference  
+- Real-Time Data Processing  
+- Applied Deep Learning  
+- Medical AI & Multimodal Learning  
+- Research-Driven AI Products  
 
 ---
 
