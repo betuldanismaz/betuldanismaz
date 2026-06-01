@@ -2,19 +2,19 @@
 
 # 🌌 Betul Danismaz
 
-### `Data Scientist` • `4th-Year Computer Engineering Student`
+### `ML Engineer` • `Data Scientist` • `Computer Engineering Senior`
 
 </div>
 
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=8A2BE2&center=true&vCenter=true&width=700&lines=Turning+data+into+intelligent+systems;Building+practical+machine+learning+solutions;Exploring+AI%2C+Cloud+and+Production+systems" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=8A2BE2&center=true&vCenter=true&width=700&lines=Real-time+ML+pipelines+on+Kafka+%26+Docker;IEEE+SIU+2026+published+researcher;From+notebooks+to+production+systems" alt="Typing SVG" />
 
 <br/>
 
-<img src="https://img.shields.io/badge/Data%20Science-Exploring-6A5ACD?style=for-the-badge&logo=jupyter&logoColor=white" />
-<img src="https://img.shields.io/badge/Machine%20Learning-Building-FF6F61?style=for-the-badge&logo=tensorflow&logoColor=white" />
-<img src="https://img.shields.io/badge/Open%20to-Learning-2E8B57?style=for-the-badge&logo=github&logoColor=white" />
+<img src="https://img.shields.io/badge/IEEE%20SIU%202026-Published-6A5ACD?style=for-the-badge&logo=ieee&logoColor=white" />
+<img src="https://img.shields.io/badge/ML%20Systems-Production--Grade-FF6F61?style=for-the-badge&logo=tensorflow&logoColor=white" />
+<img src="https://img.shields.io/badge/Open%20to-Opportunities-2E8B57?style=for-the-badge&logo=linkedin&logoColor=white" />
 
 </div>
 
@@ -22,12 +22,12 @@
 
 ## 🚀 About Me
 
-I am Betul, a **4th-year Computer Engineering student** focused on **data science and machine learning**.
+I build ML systems that go beyond notebooks — **real-time intrusion detection on Kafka pipelines**, **medical AI platforms with adaptive learning**, and **geospatial disaster response tools**.
 
-I like building systems that do more than just run models - systems that can **solve real problems**, **automate workflows**, and **move toward production-ready impact**.
-
+4th-year Computer Engineering student with a **paper accepted at IEEE SIU 2026**, hands-on experience shipping **end-to-end ML/DL pipelines** (data → model → deployment), and a focus on turning research into production-ready impact.
 
 ---
+
 ## 🧩 Selected Work
 
 
@@ -42,6 +42,8 @@ I like building systems that do more than just run models - systems that can **s
 - Integrated **SHAP explainability** and automated threat mitigation  
 - 📄 *Paper accepted to IEEE SIU 2026*
 
+[![Repo](https://img.shields.io/badge/GitHub-Network__Anomaly__Detection-181717?style=flat-square&logo=github)](https://github.com/betuldanismaz/Network_Anomaly_Detection)
+
 
 ### 🦷 Oral Pathology Assessment Platform  
 **React • Next.js • FastAPI • PostgreSQL • MedGemma**
@@ -49,33 +51,37 @@ I like building systems that do more than just run models - systems that can **s
 > Intelligent clinical learning system with adaptive AI feedback
 
 - Built a **full-stack AI platform** for medical training and diagnostics  
-- Developed **adaptive learning engine (IRT)**  
+- Developed **adaptive learning engine (IRT)** that adjusts question difficulty per student  
 - Designed **200+ multimodal patient cases** (images + clinical data)  
-- Integrated medical LLM with rule-based validation for reliability
+- Integrated medical LLM with rule-based validation for diagnostic reliability
+
+[![Repo](https://img.shields.io/badge/GitHub-DisHekimligiAI-181717?style=flat-square&logo=github)](https://github.com/betuldanismaz/DisHekimligiAI)
 
   
-### 🌍 GeoSafe : Disaster Safety & Geospatial Logistics Platform
-  **Python • FastAPI • PostgreSQL • PostGIS • React • Docker**
+### 🌍 GeoSafe: Disaster Safety & Geospatial Logistics Platform
+**Python • FastAPI • PostgreSQL • PostGIS • React • Docker**
 
-  > Geospatial information system for real-time disaster response and supply chain management
+> Geospatial information system for real-time disaster response and supply chain management
 
-  - Modeled **Point & Polygon geometries** (WGS84/SRID 4326) in PostGIS for warehouse locations and
-  evacuation zone boundaries
-  - Built **spatial query pipelines** (`ST_DistanceSphere`, `ST_AsGeoJSON`) with GIST indexing for
-  nearest-warehouse routing
-  - Designed a **normalized supply chain schema** (3NF) tracking inventory movements across logistics
-  depots with full audit logging
-  - Delivered **GeoJSON API** via async FastAPI + GeoAlchemy2, visualized on an interactive Leaflet.js map
-  dashboard
+- Modeled **Point & Polygon geometries** (WGS84/SRID 4326) in PostGIS for warehouse locations and evacuation zone boundaries  
+- Built **spatial query pipelines** (`ST_DistanceSphere`, `ST_AsGeoJSON`) with GIST indexing for nearest-warehouse routing  
+- Designed a **normalized supply chain schema** (3NF) tracking inventory movements across logistics depots with full audit logging  
+- Delivered **GeoJSON API** via async FastAPI + GeoAlchemy2, visualized on an interactive Leaflet.js map dashboard
 
-### 📊 Business Analytics Dashboard  
-**React • Node.js • Express • MongoDB**
-
-> Scalable analytics system for real-time business insights
-
-- Developed a **MERN-based analytics platform**  
+[![Repo](https://img.shields.io/badge/GitHub-GEO--SAFE-181717?style=flat-square&logo=github)](https://github.com/betuldanismaz/GEO-SAFE)
 
 
+### 🏆 YZTA Datathon 2026 — Cognitive Performance Prediction  
+**Python • CatBoost • XGBoost • Scikit-learn**
+
+> Competitive regression challenge: predicting cognitive performance from behavioral & demographic features
+
+- Built a **full ML pipeline** — EDA, feature engineering, validation, and weighted ensemble of gradient boosting models  
+- Engineered domain-specific features and applied **robust cross-validation** to prevent leakage  
+- Ranked **17th / 135 teams (Top 13%)** as a 3-person team  
+- Documented full solution with reproducible notebooks and research references
+
+[![Repo](https://img.shields.io/badge/GitHub-datathon__yzta-181717?style=flat-square&logo=github)](https://github.com/betuldanismaz/datathon_yzta)
 
 ---
 
@@ -109,11 +115,13 @@ I like building systems that do more than just run models - systems that can **s
 
 <p>
   <img src="https://skillicons.dev/icons?i=docker,kubernetes,aws,git,linux" />
+  <img src="https://img.shields.io/badge/Apache%20Kafka-231F20?style=for-the-badge&logo=apachekafka&logoColor=white" />
   <img src="https://img.shields.io/badge/Apache%20Airflow-017CEE?style=for-the-badge&logo=apacheairflow&logoColor=white" />
   <img src="https://img.shields.io/badge/Huawei%20Cloud-FF0000?style=for-the-badge&logo=huawei&logoColor=white" />
 </p>
 
 ---
+
 ## 📊 GitHub Activity
 
 <div align="center">
@@ -125,6 +133,20 @@ I like building systems that do more than just run models - systems that can **s
 
 </div>
 
-### ✨ Still exploring. Still learning. Still improving - one iteration at a time.
+---
+
+## 📬 Let's Connect
+
+<div align="center">
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/betuldanismaz/)
+[![Medium](https://img.shields.io/badge/Medium-000000?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@danismazbetul3)
+[![Kaggle](https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white)](https://www.kaggle.com/bethdanis)
+
+</div>
+
+<div align="center">
+
+*Open to ML engineering roles, research collaborations, and interesting problems.*
 
 </div>
