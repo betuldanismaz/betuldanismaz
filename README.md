@@ -142,11 +142,10 @@ I have an accepted research paper at **IEEE SIU 2026** and received the **TÜBİ
 ## 📊 GitHub Activity
 
 <div align="center">
-
-<img src="https://streak-stats.demolab.com?user=betuldanismaz&theme=radical&hide_border=true" />
+<img src="https://github-readme-streak-stats.herokuapp.com?user=betuldanismaz&theme=radical&hide_border=true" />
 <br/>
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=betuldanismaz&theme=radical" />
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=betuldanismaz&theme=radical" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=betuldanismaz&theme=radical" /> 
 
 </div>
 
