@@ -22,25 +22,17 @@
 
 ## 🚀 About Me
 
-I’m a 4th-year Computer Engineering student focused on building **production-grade ML systems**, **real-time AI infrastructure**, and **applied multimodal intelligence platforms**.
 
-My work spans:
+I build ML systems that go beyond notebooks — **real-time streaming pipelines**, 
+**adaptive medical AI platforms**, and **geospatial intelligence tools** designed 
+for production deployment.
 
-- real-time intrusion detection on Kafka streaming pipelines  
-- adaptive medical AI systems powered by LLMs  
-- geospatial disaster-response platforms  
-- end-to-end ML pipelines from data engineering to deployment  
+**IEEE SIU 2026** accepted paper on real-time network intrusion detection.  
+**TÜBİTAK 2209-A** research grant recipient for AI-assisted oral pathology assessment.  
+**Manuscript under review** at the *Journal of Dental Education* (Wiley).  
 
-I have an accepted research paper at **IEEE SIU 2026** and received the **TÜBİTAK 2209-A Research Grant** for developing an AI-assisted oral pathology assessment platform integrating multimodal clinical reasoning and adaptive learning.
-
-### 🔬 Areas of Interest
-
-- ML Systems Engineering  
-- MLOps & Scalable Inference  
-- Real-Time Data Processing  
-- Applied Deep Learning  
-- Medical AI & Multimodal Learning  
-- Research-Driven AI Products  
+4th-year Computer Engineering student and open to **ML engineering, 
+data science, and applied AI research** roles.
 
 ---
 
