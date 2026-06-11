@@ -32,7 +32,6 @@ My work spans cybersecurity, healthcare, and disaster response, united by a sing
 - 📝 Manuscript under review at the [Journal of Dental Education](https://onlinelibrary.wiley.com/journal/19307837) by Wiley
 - ✈️ Competing in **TEKNOFEST Aviation Artificial Intelligence Competition**
 - 📊 Data Science Trainee at **Google AI & Technology Academy**
-- 💼 Data Scientist at **Genalyse**
 
 Final-year Computer Engineering student based in Istanbul, open to **ML engineering**, **data science**, and **applied AI research** roles in Turkey and remote.
 
