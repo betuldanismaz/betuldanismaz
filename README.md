@@ -2,7 +2,7 @@
 
 # 🌌 Betul Danismaz
 
-### `ML Engineer` • `Data Scientist` • `Computer Engineering Senior`
+### `Data Scientist` • `Computer Engineering Senior`
 
 </div>
 
@@ -12,30 +12,34 @@
 
 <br/>
 
-<img src="https://img.shields.io/badge/IEEE%20SIU%202026-Published-6A5ACD?style=for-the-badge&logo=ieee&logoColor=white" />
-<img src="https://img.shields.io/badge/ML%20Systems-Production--Grade-FF6F61?style=for-the-badge&logo=tensorflow&logoColor=white" />
-<img src="https://img.shields.io/badge/Open%20to-Opportunities-2E8B57?style=for-the-badge&logo=linkedin&logoColor=white" />
+<img src="https://img.shields.io/badge/IEEE%20SIU%202026-Accepted%20Paper-6A5ACD?style=for-the-badge&logo=ieee&logoColor=white" />
+<img src="https://img.shields.io/badge/TÜBİTAK%202209--A-Research%20Grant-2E8B57?style=for-the-badge" />
+<img src="https://img.shields.io/badge/TEKNOFEST-Aviation%20AI%20Competitor-FF6F00?style=for-the-badge" />
+<img src="https://img.shields.io/badge/Google%20AI%20%26%20Tech%20Academy-Data%20Science%20Trainee-4285F4?style=for-the-badge&logo=google&logoColor=white" />
 
 </div>
 
 ---
 
+
 ## 🚀 About Me
 
-
-I build ML systems that go beyond notebooks — **real-time streaming pipelines**, 
+I build ML systems that go beyond notebooks: **real-time streaming pipelines**, 
 **adaptive medical AI platforms**, and **geospatial intelligence tools** designed 
 for production deployment.
 
-**IEEE SIU 2026** accepted paper on real-time network intrusion detection.  
-**TÜBİTAK 2209-A** research grant recipient for AI-assisted oral pathology assessment.  
-**Manuscript under review** at the *Journal of Dental Education* (Wiley).  
+I have an accepted paper at [IEEE SIU 2026](https://siu2026.pirireis.edu.tr/) on real-time network intrusion detection.  
+I am a **TÜBİTAK 2209-A** research grant recipient for Oral Pathology Assessment Platform the manuscript is under review at the [Journal of Dental Education](https://onlinelibrary.wiley.com/journal/19307837) by Wiley.  
+I am currently competing in **TEKNOFEST Aviation Artificial Intelligence Competition**.  
+I am also a **Data Science Trainee** at **Google AI & Technology Academy**.
 
-4th-year Computer Engineering student and open to **ML engineering, 
-data science, and applied AI research** roles.
+4th-year Computer Engineering student based in Istanbul, open to **ML engineering**, 
+**data science**, and **applied AI research** roles.
 
 ---
 
+
+  
 ## 🧩 Selected Work
 
 
@@ -48,19 +52,20 @@ data science, and applied AI research** roles.
 - Achieved **98.88% accuracy (0.999 ROC-AUC)** across 5 ML/DL models  
 - Engineered ultra-low latency inference (**0.008 ms**) with **126K+ predictions/sec**  
 - Integrated **SHAP explainability** and automated threat mitigation  
-- 📄 *Paper accepted to IEEE SIU 2026*
+- 📄 *Paper accepted to [IEEE SIU 2026](https://siu2026.pirireis.edu.tr/)* 
 
 [![Repo](https://img.shields.io/badge/GitHub-Network__Anomaly__Detection-181717?style=flat-square&logo=github)](https://github.com/betuldanismaz/Network_Anomaly_Detection)
 
 
 ### 🦷 Oral Pathology Assessment Platform  
-**React • Next.js • FastAPI • PostgreSQL • MedGemma**
+**React • Next.js • FastAPI • PostgreSQL • Gemma 2-9B**
 
 > Intelligent clinical learning system with adaptive AI feedback
 
+- 📝 Manuscript under review at the *[Journal of Dental Education](https://onlinelibrary.wiley.com/journal/19307837)* by Wiley
 - Built a **full-stack AI platform** for medical training and diagnostics  
 - Developed **adaptive learning engine (IRT)** that adjusts question difficulty per student  
-- Designed **200+ multimodal patient cases** (images + clinical data)  
+- Designed **100+ multimodal patient cases** (images + clinical data)  
 - Integrated medical LLM with rule-based validation for diagnostic reliability
 - Awarded the TÜBİTAK 2209-A Research Grant for the project’s development and clinical AI research contributions
 
