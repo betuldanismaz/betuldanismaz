@@ -1,14 +1,14 @@
 <div align="center">
 
-# 🌌 Betul Danismaz
+# 🌌 Betül Danışmaz
 
-### `Data Scientist` • `Computer Engineering Senior`
+### `Data Scientist` • `ML Engineer` • `Computer Engineering Senior`
 
 </div>
 
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=8A2BE2&center=true&vCenter=true&width=700&lines=Real-time+ML+pipelines+on+Kafka+%26+Docker;IEEE+SIU+2026+published+researcher;From+notebooks+to+production+systems" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=8A2BE2&center=true&vCenter=true&width=700&lines=Real-time+ML+pipelines+on+Kafka+%26+Docker;IEEE+SIU+2026+accepted+paper;From+notebooks+to+production+systems" alt="Typing SVG" />
 
 <br/>
 
@@ -21,79 +21,80 @@
 
 ---
 
+## About Me
 
-## 🚀 About Me
+I build ML systems that go beyond notebooks: **real-time streaming pipelines**, **adaptive medical AI platforms**, and **geospatial intelligence tools** designed for production deployment.
 
-I build ML systems that go beyond notebooks: **real-time streaming pipelines**, 
-**adaptive medical AI platforms**, and **geospatial intelligence tools** designed 
-for production deployment.
+My work spans cybersecurity, healthcare, and disaster response, united by a single focus: building AI systems that work outside the notebook.
 
-I have an accepted paper at [IEEE SIU 2026](https://siu2026.pirireis.edu.tr/) on real-time network intrusion detection.  
-I am a **TÜBİTAK 2209-A** research grant recipient for Oral Pathology Assessment Platform the manuscript is under review at the [Journal of Dental Education](https://onlinelibrary.wiley.com/journal/19307837) by Wiley.  
-I am currently competing in **TEKNOFEST Aviation Artificial Intelligence Competition**.  
-I am also a **Data Science Trainee** at **Google AI & Technology Academy**.
+- 📄 Accepted paper at [IEEE SIU 2026](https://siu2026.pirireis.edu.tr/) on real-time network intrusion detection
+- 🏆 TÜBİTAK 2209-A research grant recipient for the Oral Pathology Assessment Platform
+- 📝 Manuscript under review at the [Journal of Dental Education](https://onlinelibrary.wiley.com/journal/19307837) by Wiley
+- ✈️ Competing in **TEKNOFEST Aviation Artificial Intelligence Competition**
+- 📊 Data Science Trainee at **Google AI & Technology Academy**
+- 💼 Data Scientist at **Genalyse**
 
-4th-year Computer Engineering student based in Istanbul, open to **ML engineering**, 
-**data science**, and **applied AI research** roles.
+Final-year Computer Engineering student based in Istanbul, open to **ML engineering**, **data science**, and **applied AI research** roles in Turkey and remote.
 
 ---
 
-
-  
-## 🧩 Selected Work
-
+## Selected Work
 
 ### 🛡️ Real-Time Network Intrusion Detection System  
-**Python • Kafka • Docker • XGBoost • TensorFlow**
+**Python • Kafka • Docker • XGBoost • TensorFlow • SHAP**
 
-> Production-grade real-time intrusion detection pipeline
+> Production-grade real-time intrusion detection pipeline with streaming inference, explainability, and automated threat response.
 
-- Processed **2.8M+ network flows** on a Kafka streaming architecture  
-- Achieved **98.88% accuracy (0.999 ROC-AUC)** across 5 ML/DL models  
-- Engineered ultra-low latency inference (**0.008 ms**) with **126K+ predictions/sec**  
-- Integrated **SHAP explainability** and automated threat mitigation  
-- 📄 *Paper accepted to [IEEE SIU 2026](https://siu2026.pirireis.edu.tr/)* 
+- Processed **2.8M+ network flows** on a Kafka streaming architecture
+- Achieved **98.88% accuracy** and **0.999 ROC-AUC** across 5 ML/DL models
+- Engineered ultra-low latency inference at **0.008 ms** with **126K+ predictions/sec**
+- Integrated **SHAP explainability** and automated threat mitigation
+- Paper accepted to [IEEE SIU 2026](https://siu2026.pirireis.edu.tr/)
 
 [![Repo](https://img.shields.io/badge/GitHub-Network__Anomaly__Detection-181717?style=flat-square&logo=github)](https://github.com/betuldanismaz/Network_Anomaly_Detection)
 
+---
 
 ### 🦷 Oral Pathology Assessment Platform  
-**React • Next.js • FastAPI • PostgreSQL • Gemma 2-9B**
+**React • Next.js • FastAPI • PostgreSQL • MedGemma**
 
-> Intelligent clinical learning system with adaptive AI feedback
+> Intelligent clinical learning system with adaptive AI feedback for oral pathology education and assessment.
 
-- 📝 Manuscript under review at the *[Journal of Dental Education](https://onlinelibrary.wiley.com/journal/19307837)* by Wiley
-- Built a **full-stack AI platform** for medical training and diagnostics  
-- Developed **adaptive learning engine (IRT)** that adjusts question difficulty per student  
-- Designed **100+ multimodal patient cases** (images + clinical data)  
-- Integrated medical LLM with rule-based validation for diagnostic reliability
-- Awarded the TÜBİTAK 2209-A Research Grant for the project’s development and clinical AI research contributions
+- Built a **full-stack AI platform** for medical training and diagnostic reasoning support
+- Developed an **adaptive learning engine using Item Response Theory** to adjust question difficulty per student
+- Designed **100+ multimodal clinical scenarios** with images and structured patient data
+- Integrated a medical LLM with rule-based validation for more reliable diagnostic feedback
+- Awarded the **TÜBİTAK 2209-A Research Grant** for clinical AI research and platform development
+- Manuscript under review at the *[Journal of Dental Education](https://onlinelibrary.wiley.com/journal/19307837)* by Wiley
 
 [![Repo](https://img.shields.io/badge/GitHub-DisHekimligiAI-181717?style=flat-square&logo=github)](https://github.com/betuldanismaz/DisHekimligiAI)
 
-  
-### 🌍 GeoSafe: Disaster Safety & Geospatial Logistics Platform
+---
+
+### 🌍 GeoSafe: Disaster Safety & Geospatial Logistics Platform  
 **Python • FastAPI • PostgreSQL • PostGIS • React • Docker**
 
-> Geospatial information system for real-time disaster response and supply chain management
+> Disaster response platform for locating safe gathering areas, available supplies, and nearby logistics resources through geospatial data.
 
-- Modeled **Point & Polygon geometries** (WGS84/SRID 4326) in PostGIS for warehouse locations and evacuation zone boundaries  
-- Built **spatial query pipelines** (`ST_DistanceSphere`, `ST_AsGeoJSON`) with GIST indexing for nearest-warehouse routing  
-- Designed a **normalized supply chain schema** (3NF) tracking inventory movements across logistics depots with full audit logging  
-- Delivered **GeoJSON API** via async FastAPI + GeoAlchemy2, visualized on an interactive Leaflet.js map dashboard
+- Modeled **Point and Polygon geometries** using WGS84/SRID 4326 in PostGIS
+- Built spatial query pipelines with `ST_DistanceSphere`, `ST_AsGeoJSON`, and GIST indexing
+- Designed a normalized **3NF supply chain schema** for warehouse inventory and movement tracking
+- Delivered a GeoJSON API with async FastAPI and GeoAlchemy2
+- Visualized evacuation zones, warehouses, and logistics data on an interactive Leaflet.js dashboard
 
 [![Repo](https://img.shields.io/badge/GitHub-GEO--SAFE-181717?style=flat-square&logo=github)](https://github.com/betuldanismaz/GEO-SAFE)
 
+---
 
-### 🏆 YZTA Datathon 2026 — Cognitive Performance Prediction  
+### 🏆 YZTA Datathon 2026: Cognitive Performance Prediction  
 **Python • CatBoost • XGBoost • Scikit-learn**
 
-> Competitive regression challenge: predicting cognitive performance from behavioral & demographic features
+> Competitive regression challenge focused on predicting cognitive performance from behavioral and demographic features.
 
-- Built a **full ML pipeline** — EDA, feature engineering, validation, and weighted ensemble of gradient boosting models  
-- Engineered domain-specific features and applied **robust cross-validation** to prevent leakage  
-- Ranked **17th / 135 teams (Top 13%)** as a 3-person team  
-- Documented full solution with reproducible notebooks and research references
+- Built a full ML pipeline covering EDA, feature engineering, validation, and weighted ensembling
+- Engineered domain-specific features and applied robust cross-validation to reduce leakage risk
+- Ranked **17th / 135 teams**, Top 13%, as part of a 3-person team
+- Used gradient boosting models including **CatBoost**, **XGBoost**, and **Scikit-learn** pipelines
 
 [![Repo](https://img.shields.io/badge/GitHub-datathon__yzta-181717?style=flat-square&logo=github)](https://github.com/betuldanismaz/datathon_yzta)
 
