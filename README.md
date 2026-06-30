@@ -59,12 +59,11 @@ Final-year Computer Engineering student based in Istanbul, open to **ML engineer
 
 > Intelligent clinical learning system with adaptive AI feedback for oral pathology education and assessment.
 
-- Built a **full-stack AI platform** for medical training and diagnostic reasoning support
-- Developed an **adaptive learning engine using Item Response Theory** to adjust question difficulty per student
-- Designed **100+ multimodal clinical scenarios** with images and structured patient data
-- Integrated a medical LLM with rule-based validation for more reliable diagnostic feedback
-- Awarded the **TÜBİTAK 2209-A Research Grant** for clinical AI research and platform development
-- Manuscript under review at the *[Journal of Dental Education](https://onlinelibrary.wiley.com/journal/19307837)* by Wiley
+- Fine-tuned MedGemma on domain-specific oral pathology cases for diagnostic reasoning; applied rule-based post-processing to constrain hallucinations in clinical output
+- Implemented a 3-parameter Item Response Theory (IRT) model with Bayesian Knowledge Tracing (BKT) to dynamically calibrate question difficulty per learner across 150+ multimodal case scenarios
+- Built XGBoost-based learner performance modeling to surface at-risk students and personalize remediation paths
+- Engineered a FastAPI backend with PostgreSQL, serving structured patient data alongside image inputs for multimodal clinical scenario delivery
+- Awarded TÜBİTAK 2209-A Research Grant; Manuscript under review at the *[Journal of Dental Education](https://onlinelibrary.wiley.com/journal/19307837)* by Wiley
 
 [![Repo](https://img.shields.io/badge/GitHub-DisHekimligiAI-181717?style=flat-square&logo=github)](https://github.com/betuldanismaz/DisHekimligiAI)
 
