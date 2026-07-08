@@ -55,11 +55,11 @@ Final-year Computer Engineering student based in Istanbul, open to **ML engineer
 ---
 
 ### 🦷 Oral Pathology Assessment Platform  
-**React • Next.js • FastAPI • PostgreSQL • MedGemma**
+**React • Next.js • FastAPI • PostgreSQL • gemma 2-9b**
 
 > Intelligent clinical learning system with adaptive AI feedback for oral pathology education and assessment.
 
-- Fine-tuned MedGemma on domain-specific oral pathology cases for diagnostic reasoning; applied rule-based post-processing to constrain hallucinations in clinical output
+- Fine-tuned gemma 2-9b on domain-specific oral pathology cases for diagnostic reasoning; applied rule-based post-processing to constrain hallucinations in clinical output
 - Implemented a 3-parameter Item Response Theory (IRT) model with Bayesian Knowledge Tracing (BKT) to dynamically calibrate question difficulty per learner across 150+ multimodal case scenarios
 - Built XGBoost-based learner performance modeling to surface at-risk students and personalize remediation paths
 - Engineered a FastAPI backend with PostgreSQL, serving structured patient data alongside image inputs for multimodal clinical scenario delivery
