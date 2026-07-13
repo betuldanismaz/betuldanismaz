@@ -135,9 +135,7 @@ Open to **ML engineering**, **applied AI research**, and **LLM/MLOps** roles in 
 </p>
 
 ---
-
 ## 📊 GitHub Activity
-
 
 <div align="center">
 <img src="https://github-readme-streak-stats.herokuapp.com?user=betuldanismaz&theme=radical&hide_border=true" />
@@ -146,20 +144,21 @@ Open to **ML engineering**, **applied AI research**, and **LLM/MLOps** roles in 
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=betuldanismaz&theme=radical" /> 
 
 </div>
+
 ---
 
 ## 📬 Let's Connect
 
 <div align="center">
-<img src="https://github-readme-streak-stats.herokuapp.com?user=betuldanismaz&theme=radical&hide_border=true" />
-<br/>
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=betuldanismaz&theme=radical" />
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=betuldanismaz&theme=radical" /> 
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/betuldanismaz/)
+[![Medium](https://img.shields.io/badge/Medium-000000?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@danismazbetul3)
+[![Kaggle](https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white)](https://www.kaggle.com/bethdanis)
 
 </div>
 
 <div align="center">
 
-*Open to ML engineering, LLM/MLOps, and applied AI research roles — Turkey and remote.*
+*Open to ML engineering roles, research collaborations, and interesting problems.*
 
 </div>
