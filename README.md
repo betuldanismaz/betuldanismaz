@@ -27,7 +27,7 @@ I build ML systems that go beyond notebooks: **real-time streaming pipelines**, 
 
 My work spans cybersecurity, healthcare, and disaster response — united by a single focus: building AI systems that work outside the notebook.
 
-- 🏢 Currently working as **AI Engineer at Genalyse**
+- 🏢 Currently working as **AI Engineer**
 - 📄 Paper published and presented at [IEEE SIU 2026](https://siu2026.pirireis.edu.tr/) on real-time network intrusion detection
 - 🏆 TÜBİTAK 2209-A research grant recipient; project presented at **SIU 2026 Graduation Project Competition**
 - 📝 Manuscript under review at the [Journal of Dental Education](https://onlinelibrary.wiley.com/journal/19307837) by Wiley
