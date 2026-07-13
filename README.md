@@ -138,15 +138,14 @@ Open to **ML engineering**, **applied AI research**, and **LLM/MLOps** roles in 
 
 ## 📊 GitHub Activity
 
+
 <div align="center">
-<img src="https://streak-stats.demolab.com?user=betuldanismaz&theme=radical&hide_border=true" />
-<br/>
-<img src="https://github-readme-stats.vercel.app/api?username=betuldanismaz&show_icons=true&theme=radical&hide_border=true&include_all_commits=true&count_private=true" />
+<img src="https://github-readme-streak-stats.herokuapp.com?user=betuldanismaz&theme=radical&hide_border=true" />
 <br/>
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=betuldanismaz&theme=radical" />
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=betuldanismaz&theme=radical" />
-</div>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=betuldanismaz&theme=radical" /> 
 
+</div>
 ---
 
 ## 📬 Let's Connect
