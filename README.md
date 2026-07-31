@@ -2,7 +2,7 @@
 
 # 🌌 Betül Danışmaz
 
-### `AI Engineer` • `ML Engineer` • `Computer Engineering Graduate`
+###  `ML Engineer` • `Computer Engineering Graduate`
 
 </div>
 
