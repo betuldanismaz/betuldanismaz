@@ -2,19 +2,18 @@
 
 # 🌌 Betül Danışmaz
 
-###  `ML Engineer` • `Computer Engineering Graduate`
+### `Data Scientist` • `Computer Engineering Graduate`
 
 </div>
 
 <div align="center">
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=8A2BE2&center=true&vCenter=true&width=700&lines=Real-time+ML+pipelines+on+Kafka+%26+Docker;IEEE+SIU+2026+published+%26+presented;LLM+fine-tuning+%E2%80%94+LoRA+%26+SFT+on+medical+AI" alt="Typing SVG" />
-
 <br/>
 
 <img src="https://img.shields.io/badge/IEEE%20SIU%202026-Published%20%26%20Presented-6A5ACD?style=for-the-badge&logo=ieee&logoColor=white" />
 <img src="https://img.shields.io/badge/TÜBİTAK%202209--A-Research%20Grant-2E8B57?style=for-the-badge" />
-<img src="https://img.shields.io/badge/SIU%202026-Graduation%20Project%20Competition-8B0000?style=for-the-badge" />
+<img src="https://img.shields.io/badge/SIU%202026-Graduate%20Projects%20Competition-8B0000?style=for-the-badge" />
 <img src="https://img.shields.io/badge/TEKNOFEST-Aviation%20AI%20Competitor-FF6F00?style=for-the-badge" />
 
 </div>
@@ -25,52 +24,65 @@
 
 I build ML systems that go beyond notebooks: **real-time streaming pipelines**, **LLM fine-tuning for medical AI**, and **geospatial intelligence tools** designed for production deployment.
 
-My work spans cybersecurity, healthcare, and disaster response — united by a single focus: building AI systems that work outside the notebook.
+My work spans cybersecurity, healthcare, disaster response, and autonomous systems — united by a single focus: building AI systems that work outside the notebook.
 
-- 🏢 Currently working as **ML Engineer**
-- 📄 Paper published and presented at [IEEE SIU 2026](https://siu2026.pirireis.edu.tr/) on real-time network intrusion detection
-- 🏆 TÜBİTAK 2209-A research grant recipient; project presented at **SIU 2026 Graduation Project Competition**
+- 🏢 Software Engineering Intern at **Uyumsoft**, building LLM-powered ERP cost analysis with **Llama 3.3 70B**
+- 📄 Paper published and presented at [IEEE SIU 2026](https://ieeexplore.ieee.org/document/11636987) on real-time network intrusion detection
+- 🏆 TÜBİTAK 2209-A research grant recipient; project presented at **SIU 2026 Graduate Projects Competition**
 - 📝 Manuscript under review at the [Journal of Dental Education](https://onlinelibrary.wiley.com/journal/19307837) by Wiley
 - 🎓 Computer Engineering graduate, GPA 3.49/4.00, Istanbul
-- ✈️ Competitor in **TEKNOFEST Aviation Artificial Intelligence Competition**
 
-Open to **ML engineering**, **applied AI research**, and **LLM/MLOps** roles in Turkey and remote.
+Open to full-time **AI engineering**, **ML engineering**, and **applied AI research** roles globally.
 
 ---
 
 ## Selected Work
 
-### 🛡️ Real-Time Network Intrusion Detection System  
+### 🛡️ Real-Time Network Intrusion Detection System
 **Python • Kafka • Docker • XGBoost • TensorFlow • SHAP**
 
 > Production-grade real-time intrusion detection pipeline with streaming inference, explainability, and automated threat response.
 
-- Processed **2.8M+ network flows** on a Kafka streaming architecture
-- Achieved **98.88% accuracy** and **0.999 ROC-AUC** across 5 ML/DL models
+- Deployed production-grade NIDS on a Dockerized Kafka streaming pipeline, benchmarking 5 ML/DL architectures (XGBoost, Random Forest, Decision Tree, BiLSTM, LSTM) on **2.8M+ network flows**
+- Achieved **98.88% accuracy** and **0.999 ROC-AUC**; architected Scapy-to-CICFlowMeter pipeline reducing 78 raw features to a top-20 optimized set
 - Engineered ultra-low latency inference at **0.008 ms** with **126K+ predictions/sec**
-- Integrated **SHAP explainability** and automated threat mitigation
-- 📄 Paper published and presented at [IEEE SIU 2026](https://siu2026.pirireis.edu.tr/)
+- Built real-time monitoring dashboard with **SHAP explainability**, dynamic model hot-reloading, and automated iptables/Windows Firewall threat response
+- 📄 Paper published and presented at [IEEE SIU 2026](https://ieeexplore.ieee.org/document/11636987)
 
 [![Repo](https://img.shields.io/badge/GitHub-Network__Anomaly__Detection-181717?style=flat-square&logo=github)](https://github.com/betuldanismaz/Network_Anomaly_Detection)
 
 ---
 
-### 🦷 Oral Pathology Assessment Platform  
-**React • Next.js • FastAPI • PostgreSQL • Gemma 2 9B • LoRA • SFT**
+### 🦷 DENTAI — Oral Pathology Assessment Platform
+**React • Next.js • FastAPI • PostgreSQL • Gemma 2-9B • QLoRA • SFT**
 
 > Intelligent clinical learning system with adaptive AI feedback for oral pathology education and assessment.
 
-- Fine-tuned **Gemma 2 9B** on domain-specific oral pathology cases using **LoRA + SFT**; applied rule-based post-processing to constrain hallucinations in clinical output
-- Implemented a 3-parameter Item Response Theory (IRT) model with Bayesian Knowledge Tracing (BKT) to dynamically calibrate question difficulty per learner across 150+ multimodal case scenarios
-- Built XGBoost-based learner performance modeling to surface at-risk students and personalize remediation paths
-- Engineered a FastAPI backend with PostgreSQL, serving structured patient data alongside image inputs for multimodal clinical scenario delivery
-- Awarded **TÜBİTAK 2209-A Research Grant**; presented at **SIU 2026 Graduation Project Competition**; manuscript under review at the *[Journal of Dental Education](https://onlinelibrary.wiley.com/journal/19307837)* by Wiley
+- Fine-tuned **Gemma 2-9B** via **QLoRA + SFT** on domain-specific dental corpora for oral pathology classification; deployed model on **Hugging Face** with a hybrid inference pipeline combining LLM-generated diagnoses and deterministic clinical validation rules
+- Engineered an adaptive difficulty model using **Item Response Theory (IRT)** for student ability estimation, paired with **LSTM/XGBoost** predictive models to forecast learning trajectories and dynamically adjust case complexity
+- Curated **100+ structured clinical scenarios** across multiple pathology categories with multi-modal AI analysis of dental radiographs and clinical images; built interactive **3D dental model viewer** for anatomical visualization
+- Validated platform with dental faculty in a **Phase 1 feasibility study**; presented at **SIU 2026 Graduate Projects Competition**
+- Awarded **TÜBİTAK 2209-A Research Grant**; manuscript under review at the *[Journal of Dental Education](https://onlinelibrary.wiley.com/journal/19307837)* by Wiley
 
 [![Repo](https://img.shields.io/badge/GitHub-DisHekimligiAI-181717?style=flat-square&logo=github)](https://github.com/betuldanismaz/DisHekimligiAI)
 
 ---
 
-### 🌍 GeoSafe: Disaster Safety & Geospatial Logistics Platform  
+### ✈️ TEKNOFEST 2026 — AI in Aviation (Drone Vision System)
+**Python • YOLO11 • OpenCV • PyTorch • TensorRT**
+
+> Real-time autonomous drone perception pipeline targeting object detection, GPS-free navigation, and cross-modal recognition under strict latency budgets — deployed on NVIDIA Jetson Orin Nano 8GB.
+
+- Built a real-time multi-module AI pipeline across 3 competition tasks — object detection, GPS-free navigation, and cross-modal recognition (RGB ↔ Thermal/Satellite) — under a strict **700ms/frame** budget on **NVIDIA Jetson Orin Nano 8GB**
+- Implemented **YOLO11s (TensorRT FP16)** with centroid-based tracking and hysteresis motion classification; developed hybrid GPS-free visual odometry with adaptive ORB/RAFT switching and a **7-DOF Extended Kalman Filter** for low-drift position estimation
+- Designed time-budget-aware orchestrator with graceful degradation and coarse-to-fine cross-modal matching (GeM pooling + SuperPoint/SuperGlue), achieving **~10x fewer matcher calls**
+- Maintained **103 tests** via TDD with CI/CD (GitHub Actions) and a **2,250-frame stress test** validating sustained sub-700ms throughput
+
+[![Repo](https://img.shields.io/badge/GitHub-TEKNOFEST__2026-181717?style=flat-square&logo=github)](https://github.com/betuldanismaz)
+
+---
+
+### 🌍 GeoSafe — Disaster Safety & Geospatial Logistics Platform
 **Python • FastAPI • PostgreSQL • PostGIS • React • Docker**
 
 > Disaster response platform for locating safe gathering areas, available supplies, and nearby logistics resources through geospatial data.
@@ -85,7 +97,7 @@ Open to **ML engineering**, **applied AI research**, and **LLM/MLOps** roles in 
 
 ---
 
-### 🏆 YZTA Datathon 2026: Cognitive Performance Prediction  
+### 🏆 YZTA Datathon 2026 — Cognitive Performance Prediction
 **Python • CatBoost • XGBoost • Scikit-learn**
 
 > Competitive regression challenge focused on predicting cognitive performance from behavioral and demographic features.
@@ -93,9 +105,19 @@ Open to **ML engineering**, **applied AI research**, and **LLM/MLOps** roles in 
 - Built a full ML pipeline covering EDA, feature engineering, validation, and weighted ensembling
 - Engineered domain-specific features and applied robust cross-validation to reduce leakage risk
 - Ranked **17th / 135 teams**, Top 13%, as part of a 3-person team
-- Used gradient boosting models including **CatBoost**, **XGBoost**, and **Scikit-learn** pipelines
 
 [![Repo](https://img.shields.io/badge/GitHub-datathon__yzta-181717?style=flat-square&logo=github)](https://github.com/betuldanismaz/datathon_yzta)
+
+---
+
+## 💼 Experience
+
+**Software Engineering Intern** — Uyumsoft, Yıldız Technical University Teknopark · *July 2026 – Aug. 2026*
+- Built a real-time cost monitoring platform integrated with the company's ERP system, featuring Z-score anomaly detection, 6 analytical modules (Pareto, break-even, what-if), and **Llama 3.3 70B** for AI-powered cost analysis
+- Developed cost calculation engine aggregating live ERP prices, BOM mappings, and TCMB exchange rates via SignalR real-time broadcasting; authored **271 tests** across 39 test files
+
+**Student Assistant** — Istanbul Health and Technology University · *June 2024 – Jan. 2026*
+- Mentored 200+ undergraduates in C/C++/Java; annotated training datasets with CVAT and built YOLO-based object detection pipelines for a university computer vision research project
 
 ---
 
@@ -104,7 +126,7 @@ Open to **ML engineering**, **applied AI research**, and **LLM/MLOps** roles in 
 ### Languages
 
 <p>
-  <img src="https://skillicons.dev/icons?i=python,java,js,c,cpp" />
+  <img src="https://skillicons.dev/icons?i=python,cs,js,c,cpp" />
 </p>
 
 ### ML / AI / Data
@@ -116,13 +138,14 @@ Open to **ML engineering**, **applied AI research**, and **LLM/MLOps** roles in 
   <img src="https://img.shields.io/badge/pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" />
   <img src="https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white" />
   <img src="https://img.shields.io/badge/HuggingFace-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black" />
+  <img src="https://img.shields.io/badge/TensorRT-76B900?style=for-the-badge&logo=nvidia&logoColor=white" />
   <img src="https://img.shields.io/badge/YOLO-111111?style=for-the-badge" />
 </p>
 
 ### Backend & Databases
 
 <p>
-  <img src="https://skillicons.dev/icons?i=nodejs,express,postgres,mongodb" />
+  <img src="https://skillicons.dev/icons?i=dotnet,fastapi,postgres,mongodb" />
 </p>
 
 ### Cloud / DevOps / Tools
@@ -135,14 +158,14 @@ Open to **ML engineering**, **applied AI research**, and **LLM/MLOps** roles in 
 </p>
 
 ---
+
 ## 📊 GitHub Activity
 
 <div align="center">
-<img src="https://github-readme-streak-stats.herokuapp.com?user=betuldanismaz&theme=radical&hide_border=true" />
+<img src="https://streak-stats.demolab.com?user=betuldanismaz&theme=radical&hide_border=true" />
 <br/>
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=betuldanismaz&theme=radical" />
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=betuldanismaz&theme=radical" /> 
-
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=betuldanismaz&theme=radical" />
 </div>
 
 ---
@@ -152,6 +175,7 @@ Open to **ML engineering**, **applied AI research**, and **LLM/MLOps** roles in 
 <div align="center">
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/betuldanismaz/)
+[![HuggingFace](https://img.shields.io/badge/Hugging%20Face-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black)](https://huggingface.co/betuldanismaz)
 [![Medium](https://img.shields.io/badge/Medium-000000?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@danismazbetul3)
 [![Kaggle](https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white)](https://www.kaggle.com/bethdanis)
 
@@ -159,6 +183,6 @@ Open to **ML engineering**, **applied AI research**, and **LLM/MLOps** roles in 
 
 <div align="center">
 
-*Open to ML engineering roles, research collaborations, and interesting problems.*
+*Open to AI engineering, ML engineering, and applied AI research roles — Turkey and globally.*
 
 </div>
