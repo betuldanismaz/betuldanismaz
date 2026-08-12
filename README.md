@@ -110,17 +110,6 @@ Open to full-time **AI engineering**, **ML engineering**, and **applied AI resea
 
 ---
 
-## 💼 Experience
-
-**Software Engineering Intern** — Uyumsoft, Yıldız Technical University Teknopark · *July 2026 – Aug. 2026*
-- Built a real-time cost monitoring platform integrated with the company's ERP system, featuring Z-score anomaly detection, 6 analytical modules (Pareto, break-even, what-if), and **Llama 3.3 70B** for AI-powered cost analysis
-- Developed cost calculation engine aggregating live ERP prices, BOM mappings, and TCMB exchange rates via SignalR real-time broadcasting; authored **271 tests** across 39 test files
-
-**Student Assistant** — Istanbul Health and Technology University · *June 2024 – Jan. 2026*
-- Mentored 200+ undergraduates in C/C++/Java; annotated training datasets with CVAT and built YOLO-based object detection pipelines for a university computer vision research project
-
----
-
 ## 🛠️ Tech Stack
 
 ### Languages
