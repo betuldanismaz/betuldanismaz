@@ -26,11 +26,10 @@ I build ML systems that go beyond notebooks: **real-time streaming pipelines**, 
 
 My work spans cybersecurity, healthcare, disaster response, and autonomous systems — united by a single focus: building AI systems that work outside the notebook.
 
-- 🏢 Software Engineering Intern at **Uyumsoft**, building LLM-powered ERP cost analysis with **Llama 3.3 70B**
 - 📄 Paper published and presented at [IEEE SIU 2026](https://ieeexplore.ieee.org/document/11636987) on real-time network intrusion detection
 - 🏆 TÜBİTAK 2209-A research grant recipient; project presented at **SIU 2026 Graduate Projects Competition**
 - 📝 Manuscript under review at the [Journal of Dental Education](https://onlinelibrary.wiley.com/journal/19307837) by Wiley
-- 🎓 Computer Engineering graduate, GPA 3.49/4.00, Istanbul
+- 🎓 Computer Engineering graduate
 
 Open to full-time **AI engineering**, **ML engineering**, and **applied AI research** roles globally.
 
