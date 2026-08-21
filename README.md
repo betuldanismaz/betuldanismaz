@@ -31,8 +31,6 @@ My work spans cybersecurity, healthcare, disaster response, and autonomous syste
 - 📝 Manuscript under review at the [Journal of Dental Education](https://onlinelibrary.wiley.com/journal/19307837) by Wiley
 - 🎓 Computer Engineering graduate
 
-Open to full-time **AI engineering**, **ML engineering**, and **applied AI research** roles globally.
-
 ---
 
 ## Selected Work
